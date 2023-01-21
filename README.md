@@ -101,4 +101,6 @@ My solutions for the Leetcode algorithm questions from Africa to Silicon Valley 
 | 88  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                                            | [Link](https://github.com/nkav2447/competitive_programming/blob/main/min_size_sub_arr.py) 
 |  89 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)                                            | [Link](https://github.com/nkav2447/competitive_programming/blob/main/longest_cont_sub_arr.py) 
 | 90  | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)                                            | [Link](https://github.com/nkav2447/competitive_programming/blob/main/find_the_winner_of_the_circular_game.py) 
+|  91 | [ Design Linked List](https://leetcode.com/problems/design-linked-list/)                                            | [Link](https://github.com/nkav2447/competitive_programming/blob/main/design_linked_list.py) 
+|  92 | [ Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                                            | [Link](https://github.com/nkav2447/competitive_programming/blob/main/swap_node_in_pairs.py) 
  
