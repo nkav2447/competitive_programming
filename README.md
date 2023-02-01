@@ -105,3 +105,4 @@ My solutions for the Leetcode algorithm questions from Africa to Silicon Valley 
 |  92 | [ Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                                            | [Link](https://github.com/nkav2447/competitive_programming/blob/main/swap_node_in_pairs.py) 
  |  93 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/)                                            | [Link](https://github.com/nkav2447/competitive_programming/blob/main/predict_the_winner.py)
  |  94 | [Decode String](https://leetcode.com/problems/decode-string/)                                            | [Link](https://github.com/nkav2447/competitive_programming/blob/main/decode_string.py) 
+ |  95 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                                            | [Link](https://github.com/nkav2447/competitive_programming/blob/main/two_sum_II.py)
