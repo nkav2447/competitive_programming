@@ -1,4 +1,16 @@
 #another solution
+class Solution:
+    def shuffle(self, nums: List[int], n: int) -> List[int]:
+        first, next = 0, n
+        res = []
+        while first < n:
+            res.append(nums[first])
+            first += 1
+            if next < len(nums):
+                res.append(nums[next])
+                next += 1
+        return res
+#another solution
 class Solution(object):
     def shuffle(self, nums, n):
         """
