@@ -1,3 +1,8 @@
+#added another solution
+class Solution:
+    def defangIPaddr(self, address: str) -> str:
+        return address.replace('.', '[.]')
+#added another solution
 class Solution:
     def defangIPaddr(self, address: str) -> str:
         defanged_ip = ""
