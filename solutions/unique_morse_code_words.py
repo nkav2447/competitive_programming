@@ -1,3 +1,16 @@
+#added another solution
+class Solution:
+    def uniqueMorseRepresentations(self, words: List[str]) -> int:
+        morse_codes = [".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",".--.","--.-",".-.","...","-","..-","...-",".--","-..-","-.--","--.."]
+        converted_unique_words = []
+        for word in words:
+            morse_code = ''
+            for l in word:
+                morse_code += morse_codes[ord(l)-ord('a')]
+            if morse_code not in converted_unique_words:
+                converted_unique_words.append(morse_code)
+        return len(converted_unique_words)
+#added another solution
 class Solution:
     def uniqueMorseRepresentations(self, words: List[str]) -> int:
         morse_codes = [".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",".--.","--.-",".-.","...","-","..-","...-",".--","-..-","-.--","--.."]
