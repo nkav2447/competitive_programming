@@ -1,3 +1,11 @@
+#another solution
+class Solution:
+    def restoreString(self, s: str, indices: List[int]) -> str:
+        shuffled = ""
+        for i in range(len(indices)):
+            shuffled += s[indices.index(i)]
+        return shuffled
+#another solution
 class Solution:
     def restoreString(self, s: str, indices: List[int]) -> str:
         hash_map = {}
