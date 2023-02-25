@@ -122,3 +122,4 @@ My solutions for the Leetcode algorithm questions from Africa to Silicon Valley 
 | 109  | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                                            | [Link](https://github.com/nkav2447/competitive_programming/blob/main/solutions/jewels_and_stones.py) 
 |  110 | [Shuffle String](https://leetcode.com/problems/shuffle-string/)                                            | [Link](https://github.com/nkav2447/competitive_programming/blob/main/solutions/shuffle_string.py) 
 |  111 | [Add Binary](https://leetcode.com/problems/add-binary/)                                            | [Link](https://github.com/nkav2447/competitive_programming/blob/main/solutions/add_binary.py)
+|  112 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                            | [Link](https://github.com/nkav2447/competitive_programming/blob/main/solutions/length_of_last_word.py)
