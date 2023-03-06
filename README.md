@@ -132,3 +132,4 @@ My solutions for the Leetcode algorithm questions from Africa to Silicon Valley 
 |  119 | [ First Unique Character in a String ]( https://leetcode.com/problems/first-unique-character-in-a-string/ )     | [Link]( https://github.com/nkav2447/competitive_programming/blob/main/solutions/first_unique_chr_in_string.py )
 |  120 | [4Sum II](https://leetcode.com/problems/4sum-ii/)                                            | [Link](https://github.com/nkav2447/competitive_programming/blob/main/solutions/4Sum-II.py) 
 | 121  | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                            | [Link](https://github.com/nkav2447/competitive_programming/blob/main/solutions/ransom_note.py) 
+| 122  | [Jump Game VI](https://leetcode.com/problems/jump-game-vi/)                                            | [Link](https://github.com/nkav2447/competitive_programming/blob/main/solutions/jump_game_vi.py)
