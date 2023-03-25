@@ -1,6 +1,19 @@
 #another solution
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
+        char_arr = []
+        window_start = max_length = 0
+        for window_end in range(len(s)):
+            while s[window_end] in char_arr:
+                char_arr.remove(s[window_start])
+                window_start += 1
+            char_arr.append(s[window_end])
+            max_length = max(max_length, window_end-window_start+1)
+        return max_length
+
+#another solution
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
         max_length, window_start = 0, 0
         char_frequency = {}
         for window_end in range(len(s)):
