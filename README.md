@@ -145,3 +145,5 @@ My solutions for the Leetcode algorithm questions from Africa to Silicon Valley 
 | 131  | [Permutation in String](https://leetcode.com/problems/permutation-in-string)                                            | [Link](https://github.com/nkav2447/competitive_programming/blob/main/solutions/permutation_in_string.py)
 | 132  | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)                                            | [Link](https://github.com/nkav2447/competitive_programming/blob/main/solutions/susbstr_with_concatenation_of_all_words.py)
 | 133  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                            | [Link](https://github.com/nkav2447/competitive_programming/blob/main/solutions/linked_list_cycle.py)
+| 134  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                            | [Link](https://github.com/nkav2447/competitive_programming/blob/main/solutions/linked_list_cycle_II.py) 
+
