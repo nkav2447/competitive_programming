@@ -1,3 +1,19 @@
+#another solution
+class Solution:
+    def isHappy(self, n: int) -> bool:
+        dig_set = set()
+        while (True) :
+            n_str = str(n)
+            sum_digit = sum(int(digit)**2 for digit in n_str)
+            if (sum_digit == 1):
+                return True
+            elif sum_digit in dig_set:
+                return False
+            else:
+                dig_set.add(sum_digit)
+            n = sum_digit
+
+#another solution
 class Solution:
     def find_square_sum(self, num):
         current_sum = 0
