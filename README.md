@@ -147,3 +147,7 @@ My solutions for the Leetcode algorithm questions from Africa to Silicon Valley 
 | 133  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                            | [Link](https://github.com/nkav2447/competitive_programming/blob/main/solutions/linked_list_cycle.py)
 | 134  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                            | [Link](https://github.com/nkav2447/competitive_programming/blob/main/solutions/linked_list_cycle_II.py) 
 | 135  | [ Happy Number](https://leetcode.com/problems/happy-number/)                                            | [Link](https://github.com/nkav2447/competitive_programming/blob/main/solutions/happy_number.py) 
+| 136  | [ Make The String Great](https://leetcode.com/problems/make-the-string-great/)                                            | [Link](https://github.com/nkav2447/competitive_programming/blob/main/solutions/make_str_great.py)
+
+
+
