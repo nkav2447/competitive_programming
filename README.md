@@ -6,7 +6,7 @@
 
 ## About
 
-My solutions for the Leetcode algorithm questions from Africa to Silicon Valley [A2SV](https://a2sv.org/) competitive programming and more can be found in this repository. Mostly actual interview questions from major corporations like Facebook, Amazon, Netflix, Google, and others make up these challenges.
+My solutions for the Leetcode algorithm questions for competitive programming and more can be found in this repository. Mostly actual interview questions from major corporations like Facebook, Amazon, Netflix, Google, and others make up these challenges.
 
 ## List of Problems
 
